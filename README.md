@@ -87,6 +87,9 @@ Facial Image Capture with OpenCV: Employ OpenCV for capturing real facial images
 ### Model Development and Training
 Building the Siamese Neural Network: Construct the Siamese neural network architecture comprising eight layers. This includes four convolutional layers (CNN), three max-pooling layers, and dense hidden layers. Additionally, incorporate a custom distance layer to quantify image similarity. Train the Siamese model to learn distinctive features from paired images.
 
+This is the Model image which we were made to follow.
+
+![model image (1)](https://github.com/AryashSrivastava/Face-Recognition-Using-Siamese-Neural-Network/assets/145992546/791eae01-b977-4f15-b9c6-354278a27509)
 
 <img width="687" alt="Screenshot 2024-05-19 at 8 13 11 AM" src="https://github.com/AryashSrivastava/Face-Recognition-Using-Siamese-Neural-Network/assets/145992546/8273f662-530b-4ee5-86bb-ecf01df3c24b">
 
