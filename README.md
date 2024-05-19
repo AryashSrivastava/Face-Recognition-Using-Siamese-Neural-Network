@@ -3,16 +3,74 @@ Real-time facial recognition app using Siamese Neural Networks with TensorFlow. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Before you begin, ensure you have the following prerequisites installed on your system:
 
-```
-Give examples
-```
-<img width="657" alt="Screenshot 2024-05-19 at 8 11 30 AM" src="https://github.com/AryashSrivastava/Face-Recognition-Using-Siamese-Neural-Network/assets/145992546/39ac72bd-2a27-4a8f-8b3b-7f88f785e6d8">
+1. **TensorFlow**:
+   - TensorFlow is essential for building and training the neural networks.
 
+   ```bash
+   pip install tensorflow
+   ```
+
+2. **OpenCV**:
+   - OpenCV is used for real-time computer vision tasks such as capturing facial images.
+
+   ```bash
+   pip install opencv-python
+   ```
+
+3. **Numpy**:
+   - Numpy is a fundamental package for numerical computations.
+
+   ```bash
+   pip install numpy
+   ```
+
+4. **Matplotlib**:
+   - Matplotlib is used for creating visualizations to help analyze the data.
+
+   ```bash
+   pip install matplotlib
+   ```
+
+5. **Pandas**:
+   - Pandas is used for data manipulation and analysis.
+
+   ```bash
+   pip install pandas
+   ```
+
+6. **Scikit-learn**:
+   - Scikit-learn provides simple and efficient tools for data mining and data analysis.
+
+   ```bash
+   pip install scikit-learn
+   ```
+
+7. **OS Library**:
+   - The `os` module in Python is used for interacting with the operating system, handling file and directory operations.
+
+   ```python
+   import os
+   ```
+
+8. **Access to a Camera**:
+   - Ensure you have access to a camera (built-in or external) for capturing real-time facial images.
+
+9. **Training Data**:
+    - Gather and organize training images. Ensure you have a diverse set of facial images for training the model.
+
+10. **Git**:
+    - Git is used for version control and collaboration.
+
+    ```bash
+    sudo apt-get install git
+    ```
+
+By ensuring these prerequisites are met, you will be equipped to install, run, and develop the face recognition application using Siamese Neural Networks.
 
 ## Getting Started
-
+<img width="657" alt="Screenshot 2024-05-19 at 8 11 30 AM" src="https://github.com/AryashSrivastava/Face-Recognition-Using-Siamese-Neural-Network/assets/145992546/39ac72bd-2a27-4a8f-8b3b-7f88f785e6d8">
 
 ### Installation and Setup
 Installing Dependencies and Preparing Data: Begin by installing necessary libraries and acquiring training images. This step ensures that the project has access to essential resources.
@@ -42,27 +100,17 @@ Defining Verification Criteria: Establish a verification model with predetermine
 Real-Time Face Recognition: Demonstrate the efficacy of the developed system through real-time face camera detection. Showcase the capability of the application to accurately identify and distinguish faces in varying environments.
 
 
-
-
-
 ## Built With
 
 * [TensorFlow](https://www.tensorflow.org/) - Deep Learning framework used
 * [OpenCV](https://opencv.org/) - Library for computer vision tasks
 
 
-
-
-
 ## Author
 
 * **Aryash Sriastava** - *Initial work* - [https://github.com/AryashSrivastava]
 
-
-
-
 ## Acknowledgments
-
 
 * I extend my sincere gratitude to my mentors for their invaluable guidance and support throughout the duration of this project. Their expertise and encouragement have been instrumental in shaping its success.
 
