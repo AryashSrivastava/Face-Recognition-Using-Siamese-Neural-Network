@@ -70,7 +70,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 By ensuring these prerequisites are met, you will be equipped to install, run, and develop the face recognition application using Siamese Neural Networks.
 
 ## Getting Started
-<img width="657" alt="Screenshot 2024-05-19 at 8 11 30 AM" src="https://github.com/AryashSrivastava/Face-Recognition-Using-Siamese-Neural-Network/assets/145992546/39ac72bd-2a27-4a8f-8b3b-7f88f785e6d8">
+
 
 ### Installation and Setup
 Installing Dependencies and Preparing Data: Begin by installing necessary libraries and acquiring training images. This step ensures that the project has access to essential resources.
